@@ -36,8 +36,6 @@ LibDir=
 version=1
 [SchematicFrame]
 version=1
-[sheetnames]
-1=cb3cfb63-c6bc-4894-96ff-bac2254ea26b:
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -65,3 +63,5 @@ ERC_CheckBusToNetConflicts=1
 2=REVISION:Mk III
 3=TITLE:SLO Overdrive
 4=URL:github.com/rockola/slo-overdrive
+[sheetnames]
+1=cb3cfb63-c6bc-4894-96ff-bac2254ea26b:

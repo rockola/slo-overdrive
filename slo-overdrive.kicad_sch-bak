@@ -720,6 +720,17 @@
   (wire (pts (xy 257.81 53.34) (xy 259.715 53.34)))
   (wire (pts (xy 267.335 53.34) (xy 270.51 53.34)))
 
+  (text "${PROJECT_DATE}" (at 225.425 194.31 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+  )
+  (text "${TITLE}" (at 233.045 191.77 180)
+    (effects (font (size 2 2)) (justify right bottom))
+  )
+  (text "BAJA SLO MkIII overdrive by bajaman\nDrawn from MkIII schematic dated 09 Jan 2020\n\nhttps://www.freestompboxes.org/viewtopic.php?f=13&t=28851"
+    (at 245.11 177.8 0)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+  )
+
   (global_label "IN" (shape input) (at 18.415 37.465 180)
     (effects (font (size 1.27 1.27)) (justify right))
   )
